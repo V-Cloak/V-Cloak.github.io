@@ -1,2 +1,2 @@
-http://example.com/2022/05/21/V-Cloak/
-http://example.com/
+https://v-cloak.github.io/2022/05/21/V-Cloak/
+https://v-cloak.github.io/
